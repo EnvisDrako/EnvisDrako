@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;Data+Science+Enthusiast;Building+Intelligent+Systems;Always+exploring+new+algorithms!" alt="Typing SVG" />
 </div>
 
+## 🐍 My Contributions!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EnvisDrako/EnvisDrako/output/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🚀 About Me
 
 ```javascript
@@ -35,12 +41,6 @@ const aiEngineer = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnvisDrako&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🐍 Watch the Snake Eat My Contributions!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EnvisDrako/EnvisDrako/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🛠️ AI/ML Tech Stack
