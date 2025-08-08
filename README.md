@@ -39,11 +39,7 @@ const aiEngineer = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnvisDrako&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=EnvisDrako&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EnvisDrako)](https://git.io/streak-stats)
 
 
 ## 🛠️ AI/ML Tech Stack
